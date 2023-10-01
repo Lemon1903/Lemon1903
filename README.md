@@ -1,5 +1,8 @@
 <div align="center">
-  <h1>Hey there! It's Lemon here 🍋</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=48&duration=2000&pause=1000&color=F7F099&center=true&vCenter=true&width=435&lines=Hey+there!;It's+Lemon+here+%F0%9F%8D%8B" alt="Typing SVG" />
+</div>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/khent-alba/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
